@@ -1,15 +1,10 @@
 en:
-  title: Remix, a <span>theme for Hugo</span> fully editable with <span>Netlify
-    CMS</span>
-  slogan: Nulla magna eiusmod ea eu irure exercitation non incididunt.
-  shortDescription: |
-    
-    → Get your own copy of this website in minutes.
-    → Edit everything with no single line of code.
-    → It's free and open-source!
-  image: /media/wave.jpg
-  copyright: "  © 2017-2022 - OhBonsaï &"
-  register: Roneo.org
+  title: Titel Yngves
+  slogan: SLOGAN Yngves
+  shortDescription: En gammal fisk description
+  image: /media/forest.jpg
+  copyright: lite copyright grejer
+  register: register - latjo lajban
   registerUrl: https://roneo.org/en
 fr:
   image: /media/wave.jpg
