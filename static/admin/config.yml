@@ -15,7 +15,7 @@ local_backend: true
 # i18n https://www.netlifycms.org/docs/beta-features/#i18n-support
 i18n:
   structure: multiple_folders
-  locales: [ en ]
+  locales: [ en, fr ]
   default_locale: en
 
 
